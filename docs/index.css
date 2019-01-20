@@ -1,0 +1,21 @@
+
+#table {
+    width: 800px;
+}
+
+#table thead {
+    z-index: 999;
+}
+
+#table tr {
+    height: 40px;
+}
+
+#table .c-1 {
+    width: 300px;
+}
+
+#table .c-2 {
+    width: 500px;
+}
+
